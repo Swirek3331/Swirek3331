@@ -1,1 +1,1 @@
-# **Everything is on the left side**
+# Look on left (or above)
